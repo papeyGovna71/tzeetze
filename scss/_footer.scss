@@ -4,6 +4,7 @@ footer {
         justify-content: space-between;
         margin: 0 auto;
         margin-top: 60 / 1920 * 100vw;
+        padding-bottom: 20 / 1920 * 100vw;
         width: 1170 / 1920 * 100vw;
         img {
             width: 269 / 1920 * 100vw;
@@ -27,6 +28,7 @@ footer {
     footer {
         .container {
             margin-top: 60 / 575 * 100vw;
+            padding-bottom: 20 / 575 * 100vw;
             width: 520 / 575 * 100vw;
             img {
                 width: 200 / 575 * 100vw;
